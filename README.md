@@ -1,1 +1,1 @@
-# rotary_encoder
+# Rotary Encoder
